@@ -4,5 +4,5 @@ if(pul>=20 && tanaffus){
  console.log(true)
 }
 else{
-  console.log(false)
+  console.log(false);
 }
